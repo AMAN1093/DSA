@@ -1,3 +1,4 @@
+package SEARCHING;
 import java.util.Scanner;
 public class linearSearch {
     public static int LINEARSEARCH(int arr[], int target,int n){
