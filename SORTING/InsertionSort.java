@@ -18,7 +18,7 @@ public class InsertionSort {
             }
 
             arr[j + 1] = current;
-        }
+        } 
     }
 
     // Print the array
